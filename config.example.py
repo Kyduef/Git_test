@@ -1,0 +1,2 @@
+token = "YOUR_TOKEN_HERE"
+own_id = 123456789012345678
